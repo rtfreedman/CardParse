@@ -44,7 +44,7 @@ def sumplus(s):
 print(f'Making {len(items)} cards...')
 for i in range(len(items)):
     item = items[i]
-    filename = item['Name'].replace(' ', '_').replace('\'', '')
+    filename = item['Name'].replace(' ', '_').replace('\'', '').lower()
     cardFront = Image.open('CardfrontDarkMini.png')
     draw = ImageDraw.Draw(cardFront)
     vertical_offset = 0
@@ -61,7 +61,7 @@ for i in range(len(items)):
     new_description = []
     line_length = max_line_length
     desc_font = rest_font
-    if len(item['Description']) > 800 or (len(item['Description']) > 600 and vertical_offset):
+    if len(item['Description']) > 750 or (len(item['Description']) > 600 and vertical_offset):
         line_length = 58
         desc_font = ImageFont.truetype('monofonto.ttf', 16)
     for line in item['Description'].split('\n'):
