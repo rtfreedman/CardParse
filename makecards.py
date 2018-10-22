@@ -41,7 +41,7 @@ for i in range(len(items)):
         words = item['Name'].split(' ')
         words[-2] += '\n'
         item['Name'] = ' '.join(words)
-        vertical_offset = 100
+        vertical_offset = 50
     draw.text((25, 25), item['Name'], (55, 55, 55), font=titleFont)
     draw.text((25, 100 + vertical_offset), item['Cost'], (155, 135, 0), font=restFont)
     new_description = []
