@@ -1,0 +1,1 @@
+Quick script thrown together to generate cards from the wizbolt data.
