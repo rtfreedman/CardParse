@@ -44,7 +44,7 @@ def sumplus(s):
 print(f'Making {len(items)} cards...')
 for i in range(len(items)):
     item = items[i]
-    filename = item['Name'].replace(' ', '_').replace('\'', '').lower()
+    filename = item['Name'].replace(' ', '_').replace('\'', '').replace('"','').lower()
     cardFront = Image.open('CardfrontDarkMini.png')
     draw = ImageDraw.Draw(cardFront)
     vertical_offset = 0
