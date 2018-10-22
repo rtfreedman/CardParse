@@ -2,7 +2,7 @@
   "items": [
     {
       "Cost": "75 Gold",
-      "Description": "A glass jar holding a perfectly still toad “Its never aged a day!”\n- Jar does indeed hold a toad out of age. When removed it lives as normal, any object small enough can fit in the jar and never age inside.",
+      "Description": "A glass jar holding a perfectly still toad \"Its never aged a day!\"\n- Jar does indeed hold a toad out of age. When removed it lives as normal, any object small enough can fit in the jar and never age inside.",
       "Name": "Jar of the ageless toad"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "Cost": "750 Gold",
-      "Description": "A dull grey shag carpet “Flying carpet sir, made locally and designed for comfort!”\n- Indeed grants the user a 50ft fly average flight speed. However it only works while maintaining contact with the carpet with the user's feet, to fly you would have to firmly press the non flying carpet to your feet by pulling it up.",
+      "Description": "A dull grey shag carpet \"Flying carpet sir, made locally and designed for comfort!\"\n- Indeed grants the user a 50ft fly average flight speed. However it only works while maintaining contact with the carpet with the user's feet, to fly you would have to firmly press the non flying carpet to your feet by pulling it up.",
       "Name": "Carpet of flying"
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "Cost": "40 Gold",
-      "Description": "A leather sack that resembles a bag of holding “Yes sir that bag has no holding limit, you can put any and everything you want in there!”\n- Will indeed accept everything. However the items put it enter a random storage space anywhere in the world, and you cannot take any items out.",
+      "Description": "A leather sack that resembles a bag of holding \"Yes sir that bag has no holding limit, you can put any and everything you want in there!\"\n- Will indeed accept everything. However the items put it enter a random storage space anywhere in the world, and you cannot take any items out.",
       "Name": "Bag of infinite containment"
     },
     {
@@ -157,17 +157,17 @@
     },
     {
       "Cost": "40 Gold",
-      "Description": "An unrolling scroll, when opened it is filled with draconic writing. Pulling it out more reveals the paper to be incredibly long. (It is a story about Wizbolt, the beetle Hurdy, and someone named Seerleaf. Describes in extreme detail a trip to someplace called the Rylian Bazaar and a passionate affair between Seerleaf and Wizbolt.)\n“The scribing scroll, this nifty little piece of parchment will write fantastical prophecies while you sleep!”\n- When bought the existing writing vanishes. The paper can be pulled infinitely, however the writing only appears at night. Anyone with the ability to see the astral plane can see a woman come in the night and write tales in the scroll, no others see it open. If caught mid writing the writing stops for the night.",
+      "Description": "An unrolling scroll, when opened it is filled with draconic writing. Pulling it out more reveals the paper to be incredibly long. (It is a story about Wizbolt, the beetle Hurdy, and someone named Seerleaf. Describes in extreme detail a trip to someplace called the Rylian Bazaar and a passionate affair between Seerleaf and Wizbolt.)\n\"The scribing scroll, this nifty little piece of parchment will write fantastical prophecies while you sleep!\"\n- When bought the existing writing vanishes. The paper can be pulled infinitely, however the writing only appears at night. Anyone with the ability to see the astral plane can see a woman come in the night and write tales in the scroll, no others see it open. If caught mid writing the writing stops for the night.",
       "Name": "Scribing Scroll"
     },
     {
       "Cost": "12 Gold",
-      "Description": "Unremarkable stick “This convenient little thing can be thrown so far it returns hours later!”\n- When thrown is launched into the horizon until unseen. Chasing it finds it about 1000ft away. 1d4 hours later the thrower will find it amongst their belonging. Anyone who sees the astral plane sees a slowly plodding mastiff fetching it, he looks happy.",
+      "Description": "Unremarkable stick \"This convenient little thing can be thrown so far it returns hours later!\"\n- When thrown is launched into the horizon until unseen. Chasing it finds it about 1000ft away. 1d4 hours later the thrower will find it amongst their belonging. Anyone who sees the astral plane sees a slowly plodding mastiff fetching it, he looks happy.",
       "Name": "Returning Stick"
     },
     {
       "Cost": "87 Gold",
-      "Description": "A featureless round hat, it comes with three pins for styling it. “Holds all you could ever need!”\n- Treated as a weightless bag of holding 1, however it must be held with the opening up or worn to contain anything. Can hold liquids. When worn absorbs the wearer's head, wearer can see the inside of a small storehouse and a mechanical humanoid inside, but from the ceiling. It stands still regardless of what is done to it.",
+      "Description": "A featureless round hat, it comes with three pins for styling it. \"Holds all you could ever need!\"\n- Treated as a weightless bag of holding 1, however it must be held with the opening up or worn to contain anything. Can hold liquids. When worn absorbs the wearer's head, wearer can see the inside of a small storehouse and a mechanical humanoid inside, but from the ceiling. It stands still regardless of what is done to it.",
       "Name": "Hat of holding"
     },
     {
@@ -217,7 +217,7 @@
     },
     {
       "Cost": "5000 Gold",
-      "Description": "A hefty softball sized rock. “I got this trinket from a peculiar dwarf, dressed in paper and angry but he was one of the finest wizards I've ever met!”\n- Can break any glass/crystal no matter the thickness or strength, as long as it is technically glass, its thrown into. Only thrown. After breaking and landing the thrower gets flung in the same manner directly onto the rock.",
+      "Description": "A hefty softball sized rock. \"I got this trinket from a peculiar dwarf, dressed in paper and angry but he was one of the finest wizards I've ever met!\"\n- Can break any glass/crystal no matter the thickness or strength, as long as it is technically glass, its thrown into. Only thrown. After breaking and landing the thrower gets flung in the same manner directly onto the rock.",
       "Name": "Rock of breaking and entering"
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "Cost": "20 Gold",
-      "Description": "A golden pocket watch with a crystal face and decorated with small gemstones. It makes a quiet ticking as the twelve arms move. Yes, twelve. “This handy little thing keeps time like no other! Better yet once you press the button on top time will no longer be your problem”\n- All time stops when pressed. Party perceives nothing happening other than the clock going missing and an adventurer holding it pinching their forehead. They only shakes their head in response and asks you not press the button again.",
+      "Description": "A golden pocket watch with a crystal face and decorated with small gemstones. It makes a quiet ticking as the twelve arms move. Yes, twelve. \"This handy little thing keeps time like no other! Better yet once you press the button on top time will no longer be your problem\"\n- All time stops when pressed. Party perceives nothing happening other than the clock going missing and an adventurer holding it pinching their forehead. They only shakes their head in response and asks you not press the button again.",
       "Name": "Pocket clock of Time Stopping"
     },
     {
@@ -262,7 +262,7 @@
     },
     {
       "Cost": "160 Gold",
-      "Description": "A hefty book with an untitled blue cover. “It contains countless tales of wonder!”\n- Make a will save on reading the first page, DC 22. If failed fall asleep, that dream is particularly vivid and interesting, however you sleep for 8 hours every time. If passed you notice the tales inside the book are unremarkably mundane, a farmer making a new hoe, a bear having trouble itching itself, description of a wooden bucket in incredible detail, and so on. Affects things immune to sleep normally.",
+      "Description": "A hefty book with an untitled blue cover. \"It contains countless tales of wonder!\"\n- Make a will save on reading the first page, DC 22. If failed fall asleep, that dream is particularly vivid and interesting, however you sleep for 8 hours every time. If passed you notice the tales inside the book are unremarkably mundane, a farmer making a new hoe, a bear having trouble itching itself, description of a wooden bucket in incredible detail, and so on. Affects things immune to sleep normally.",
       "Name": "Book of Slumbering"
     },
     {
@@ -1032,8 +1032,8 @@
     },
     {
       "Cost": "8500 Gold",
-      "Description": "This ruby is definitely not magical, totally mundane.\n- Occasionally when the owner of the stone makes a sarcastic remark the remark becomes real. Ex: “That boss was so easy, I wish we could fight him again” summons said boss.",
-      "Name": "“Totally not magical Ruby”"
+      "Description": "This ruby is definitely not magical, totally mundane.\n- Occasionally when the owner of the stone makes a sarcastic remark the remark becomes real. Ex: \"That boss was so easy, I wish we could fight him again\" summons said boss.",
+      "Name": "\"Totally not magical Ruby\""
     },
     {
       "Cost": "4000 Gold",
@@ -1272,7 +1272,7 @@
     },
     {
       "Cost": "16000 Gold",
-      "Description": "A standard revolver, bearing a large staring eye just above the handle on either side of the gun, and a mouth in front of the trigger. It says hello.\n- +2 revolver, however it speaks in a surreal fashion. When purchased it will speak “Ownership has transferred? You should know I'm eager to serve as your arm. Just know when you fire your finger will be within reach of my tongue.” Otherwise functions as an effective revolver that requires no ammo, which licks the user's finger once per round when used to attack and remembers the face of every creature it shoots. It has a perfect memory and will go on lengthy speeches to describe the creature's appearance and thoughts. If a creature dies to it after 48 hours there will be a new rambling revolver nearby the body.",
+      "Description": "A standard revolver, bearing a large staring eye just above the handle on either side of the gun, and a mouth in front of the trigger. It says hello.\n- +2 revolver, however it speaks in a surreal fashion. When purchased it will speak \"Ownership has transferred? You should know I'm eager to serve as your arm. Just know when you fire your finger will be within reach of my tongue.\" Otherwise functions as an effective revolver that requires no ammo, which licks the user's finger once per round when used to attack and remembers the face of every creature it shoots. It has a perfect memory and will go on lengthy speeches to describe the creature's appearance and thoughts. If a creature dies to it after 48 hours there will be a new rambling revolver nearby the body.",
       "Name": "Rambling Revolver"
     },
     {
@@ -1392,22 +1392,22 @@
     },
     {
       "Cost": "320000 Gold",
-      "Description": "A pure white cube. “This little thing can create any material you want, no limit what so ever!”. The gnome then holds the cube up in one hand, which then creates a 3ft cube of a crystal which he claims to be diamond. It looks real and entirely pure.\n- It can indeed create anything imaginable in endless amounts, it can even create highly complex objects in an instant. However it requires the user to know the precise recipe, which is a alchemical formula. DC 40 Alchemy/arcana to create a featureless cube of a simple material such as carbon, hydrogen, oxygen, or transition metals. However metals created by this method are 100% pure, and thus much less usable then if they had the proper impurities. DC 50 to create usable transition metals, coal, water, breathable air, and other common non organics. DC 70 to create noble metals such as gold, platinum, quicksilver, and copper.\nWhen a recipe is used correctly the DC for that specific item lowers to 30.\nTo create complex items the user must previously know (lowered DC) for all materials used, and make an engineering check to create them. Simple items like weapons, armor, and non moving items are DC 35. Items with few moving parts such as a wagon, crank, crane, or other simple machines are DC 40. Clockwork items have a DC of 40+ their normal craft DC, for said items craft clockwork can be used.\nFor alchemical substances the DC is 40+ their normal craft DC.\nItems created are not explicitly magical in nature, but can be used to fill in material requirements to construct items or constructs.\nOrganic materials are highly complex and need a DC 60 alchemy/arcana check and a DC 30 nature check with a size limit of medium (However creatures can be scaled down).",
+      "Description": "A pure white cube. \"This little thing can create any material you want, no limit what so ever!\". The gnome then holds the cube up in one hand, which then creates a 3ft cube of a crystal which he claims to be diamond. It looks real and entirely pure.\n- It can indeed create anything imaginable in endless amounts, it can even create highly complex objects in an instant. However it requires the user to know the precise recipe, which is a alchemical formula. DC 40 Alchemy/arcana to create a featureless cube of a simple material such as carbon, hydrogen, oxygen, or transition metals. However metals created by this method are 100% pure, and thus much less usable then if they had the proper impurities. DC 50 to create usable transition metals, coal, water, breathable air, and other common non organics. DC 70 to create noble metals such as gold, platinum, quicksilver, and copper.\nWhen a recipe is used correctly the DC for that specific item lowers to 30.\nTo create complex items the user must previously know (lowered DC) for all materials used, and make an engineering check to create them. Simple items like weapons, armor, and non moving items are DC 35. Items with few moving parts such as a wagon, crank, crane, or other simple machines are DC 40. Clockwork items have a DC of 40+ their normal craft DC, for said items craft clockwork can be used.\nFor alchemical substances the DC is 40+ their normal craft DC.\nItems created are not explicitly magical in nature, but can be used to fill in material requirements to construct items or constructs.\nOrganic materials are highly complex and need a DC 60 alchemy/arcana check and a DC 30 nature check with a size limit of medium (However creatures can be scaled down).",
       "Name": "Cube of True Alchemy"
     },
     {
       "Cost": "520000 Gold",
-      "Description": "An iron cannon decorated with depictions of natural disasters, wars, magical apocalypses, and so on. Just seeing it is unnerving, especially as wizbolt is pointing the endless black of the muzzle at you.\n“The calamity cannon my good customer! This dangerous little baddy just got delivered to my caravan from a friend. It has near limitless potential in it's destructive debauchery. Just set the dials to your desired flavor of end times, point it up, and watch your enemies cower!”\nOne dial reads “Off, Natural, Sentient, Magic, Divine, Wipe, Celestial, Foreign, Creator, Forgotten”, the other “Local, Planet, Plane, Universe, Dimension, Reality, All”.  Whatever you set the first to will set the flavor of the calamity, and the second the scale. The first dial is set to off, but the second is set to Reality.",
+      "Description": "An iron cannon decorated with depictions of natural disasters, wars, magical apocalypses, and so on. Just seeing it is unnerving, especially as wizbolt is pointing the endless black of the muzzle at you.\n\"The calamity cannon my good customer! This dangerous little baddy just got delivered to my caravan from a friend. It has near limitless potential in it's destructive debauchery. Just set the dials to your desired flavor of end times, point it up, and watch your enemies cower!\"\nOne dial reads \"Off, Natural, Sentient, Magic, Divine, Wipe, Celestial, Foreign, Creator, Forgotten\", the other \"Local, Planet, Plane, Universe, Dimension, Reality, All\".  Whatever you set the first to will set the flavor of the calamity, and the second the scale. The first dial is set to off, but the second is set to Reality.",
       "Name": "Calamity Cannon"
     },
     {
       "Cost": "70000 Gold",
-      "Description": "This short dagger is covered in runes and has blood seeping through the handle.\n“100% guaranteed to kill whatever isn't as tough as you!”\nA normal dagger, except the user may accept psychic damage to deal the same amount to the target. It has no limits, can do infinite damage. However when the user is killed while wielding it as a weapon from any source the body and dagger are destroyed, may kill attackers as well. If the dagger kills anything while doing psychic damage the body is destroyed entirely, being stretched a and warped until nothing remains.",
+      "Description": "This short dagger is covered in runes and has blood seeping through the handle.\n\"100% guaranteed to kill whatever isn't as tough as you!\"\nA normal dagger, except the user may accept psychic damage to deal the same amount to the target. It has no limits, can do infinite damage. However when the user is killed while wielding it as a weapon from any source the body and dagger are destroyed, may kill attackers as well. If the dagger kills anything while doing psychic damage the body is destroyed entirely, being stretched a and warped until nothing remains.",
       "Name": "Dagger of Mutually Assured Destruction"
     },
     {
       "Cost": "105000 Gold",
-      "Description": "A rusty gauntlet for the right hand. There is no space for a hand to be inside and the back of the glove bears the symbol of Myrik. Looking at it gives a weak urge to laugh and inklings of strange thoughts. “Nice little hand isn't it? Yes sirs, I bought this baby of a god!”\n-Has 5 different settings\nRed: Cannon, hand becomes a small cannon and can blast out small firey gusts dealing 1d6 damage as a ranged attack with 30ft range. Can be used for iterative attacks, or a single full round attack for 2d8 damage.\nGreen: Beam, hand becomes a lightning rod esque figure and can emit thin green beams dealing 2d4 damage as a ray touch attack. Can be bounced off mirrors to go around corners with a -4 per bounce. Shooting certain ancient objects may have effects.\nYellow: Hand glows a bright light, which can disperse normal and magical darkness within 60ft. Darkness created by greater forces have a much lower effect at 10ft maximum, possibly less.\nBlue: Hand is alight with azure flames, attacks with them deal an additional 1d6 holy/fire damage. Undead slain by this effect are purified and made immune to necromantic effects.\nBlack: Hand burns with a sickly green and black flare. Activating this causes 1 WIS damage that returns overnight, caused by alien thoughts invading your mind. Grants an amount of rounds of rage as per the barbarian class feature equal to your warpriest/cleric/paladin levels. By accepting 3 more points of WIS damage you may gain a rage power or the ability to do +2d8 unknown damage. Creature killed by this effect do not die, but will slowly begin shifting and shimmering in form, the final blow having their bodies twist in unnatural ways and shrink until entirely vanished. You can still hear them for 1d4 rounds after, during which they scream in terror and pain, ending almost always in an exclamation of prophecy.",
+      "Description": "A rusty gauntlet for the right hand. There is no space for a hand to be inside and the back of the glove bears the symbol of Myrik. Looking at it gives a weak urge to laugh and inklings of strange thoughts. \"Nice little hand isn't it? Yes sirs, I bought this baby of a god!\"\n-Has 5 different settings\nRed: Cannon, hand becomes a small cannon and can blast out small firey gusts dealing 1d6 damage as a ranged attack with 30ft range. Can be used for iterative attacks, or a single full round attack for 2d8 damage.\nGreen: Beam, hand becomes a lightning rod esque figure and can emit thin green beams dealing 2d4 damage as a ray touch attack. Can be bounced off mirrors to go around corners with a -4 per bounce. Shooting certain ancient objects may have effects.\nYellow: Hand glows a bright light, which can disperse normal and magical darkness within 60ft. Darkness created by greater forces have a much lower effect at 10ft maximum, possibly less.\nBlue: Hand is alight with azure flames, attacks with them deal an additional 1d6 holy/fire damage. Undead slain by this effect are purified and made immune to necromantic effects.\nBlack: Hand burns with a sickly green and black flare. Activating this causes 1 WIS damage that returns overnight, caused by alien thoughts invading your mind. Grants an amount of rounds of rage as per the barbarian class feature equal to your warpriest/cleric/paladin levels. By accepting 3 more points of WIS damage you may gain a rage power or the ability to do +2d8 unknown damage. Creature killed by this effect do not die, but will slowly begin shifting and shimmering in form, the final blow having their bodies twist in unnatural ways and shrink until entirely vanished. You can still hear them for 1d4 rounds after, during which they scream in terror and pain, ending almost always in an exclamation of prophecy.",
       "Name": "Myrik's right hand"
     }
   ]
