@@ -47,7 +47,7 @@ print(f'Making {len(items)} cards...')
 
 def makeCard(item):
     filename = item['Name'].replace(' ', '_').replace('\'', '').replace('"', '').lower()
-    cardFront = Image.open('CardfrontDarkMini.png')
+    cardFront = Image.open('Cardfront.png')
     draw = ImageDraw.Draw(cardFront)
     vertical_offset = 0
     if len(item['Name']) > max_title_line_length:
@@ -58,14 +58,15 @@ def makeCard(item):
         words[len(subset)] = '\n' + words[len(subset)]
         item['Name'] = ' '.join(words)
         vertical_offset = 50
-    draw.text((25, 25), item['Name'], (155, 155, 155), font=title_font)
-    draw.text((25, 100 + vertical_offset), item['Cost'], (155, 135, 0), font=rest_font)
+    draw.text((65, 65), item['Name'], (155, 155, 155), font=title_font)
+    draw.text((65, 140 + vertical_offset), item['Cost'], (155, 135, 0), font=rest_font)
     new_description = []
     line_length = max_line_length
     desc_font = rest_font
     if len(item['Description']) > 730 or (len(item['Description']) > 670 and vertical_offset):
-        line_length = 58
-        desc_font = ImageFont.truetype('monofonto.ttf', 16)
+        print(filename)
+        line_length = 53
+        desc_font = ImageFont.truetype('monofonto.ttf', 18)
     for line in item['Description'].split('\n'):
         if len(line) <= line_length:
             new_description.append(line)
@@ -79,7 +80,7 @@ def makeCard(item):
                 prev = end
             new_description.append(line[prev:])
     item['Description'] = '\n'.join(new_description)
-    draw.text((30, 150 + vertical_offset), item['Description'], (255, 255, 255), font=desc_font)
+    draw.text((65, 190 + vertical_offset), item['Description'], (255, 255, 255), font=desc_font)
     cardFront.save(f'cards/{filename}.png')
 
 
